@@ -1,0 +1,1 @@
+INSERT INTO CURSO (codigocurso,descripcion,turno,cupo) VALUES (103,'Algoritmos y Estructuras de Datos','Mañana',35);
